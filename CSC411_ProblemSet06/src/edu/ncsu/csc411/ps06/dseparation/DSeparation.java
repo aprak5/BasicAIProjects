@@ -1,4 +1,4 @@
-package edu.ncsu.csc411.ps06.dseperation;
+package edu.ncsu.csc411.ps06.dseparation;
 
 import java.util.ArrayList;
 
