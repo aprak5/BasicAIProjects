@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
 
-import edu.ncsu.csc411.ps06.dseperation.DSeparation;
+import edu.ncsu.csc411.ps06.dseparation.DSeparation;
 import edu.ncsu.csc411.ps06.graph.Edge;
 import edu.ncsu.csc411.ps06.graph.Graph;
 import edu.ncsu.csc411.ps06.graph.Vertex;
