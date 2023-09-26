@@ -2,7 +2,7 @@
 
 ## Overview
 
-All the projects below are developed using Eclipse and Java, so make sure Eclipse and Java/JDK are installed with the latest version. 
+All projects above were developed to explore various artificial intelligence concepts, such as DFS, A* Search, Simulated Annealing, Linear Programming, Minimax, D-Separation, and Predicate Logic. All the projects below are developed using Eclipse and Java, so make sure Eclipse and Java/JDK are installed with the latest version. 
 
 - Problem Set 1 was developed using a DFS (Depth-First Search) Algorithm with the goal to clean at least 60% of all squares (orange is dirty and gray is clean).
 - Problem Set 2 was developed using a A* Search Algorithm with the goal to get to the destination square with the fewest squares navigated (shortest path).
